@@ -1,4 +1,4 @@
-import 'package:flutter_application/form.dart';
+import 'package:flutter_application/page/form.dart';
 import 'package:flutter/material.dart';
 
 void main() {
